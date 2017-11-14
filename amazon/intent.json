@@ -1,0 +1,31 @@
+{
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewGreetingIntent",
+          "samples": [
+            "christmas",
+            "merry christmas",
+            "tell me merry christmas",
+            "give me merry christmas",
+            "merry",
+            "give me a holiday greeting"
+          ],
+          "slots": []
+        }
+      ],
+      "invocationName": "merry christmas"
+    }
+  }
